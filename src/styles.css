@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+}
+
+:root {
+    --primary-color: #3FC060;
+    --secondary-color: #162328;
+}

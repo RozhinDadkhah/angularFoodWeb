@@ -1,0 +1,7 @@
+.navbar-nav .active-link {
+    color: var(--secondary-color);
+}
+
+.active, .navbar-nav .active-link {
+    color: var(--primary-color);
+}
